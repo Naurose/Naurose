@@ -1,15 +1,13 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&pause=1000&color=FF69B4&center=true&vCenter=true&width=900&height=80&size=35&lines=Welcome+to+my+GitHub+Profile!;Hi%2C+I'm+Tahsin+Tanni.;CSE+Undergraduate+at+BRAC+University.;ML%2C+AI%2C+MERN+Stack+%26+Embedded+Systems." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&pause=1000&color=FF69B4&center=true&vCenter=true&width=900&height=80&size=35&lines=Welcome+to+my+GitHub+Profile!;Hello%2C+This+is+Naurose.;CSE+Major,+BRAC+University.;AI%2C+ML%2C+Cybersecurity" alt="Typing SVG" />
 </h1>
-
-
 
 
 
 
 ---
 
-### Hello, I’m **Naurose Farhan**
+### Hello, This is **Naurose Farhan**
 
 **Computer Science and Engineering Major at BRAC University**
 
@@ -52,38 +50,9 @@ Currently, working on a research focused on AI, ML & Cybersecurity domains.
 
 ---
 
-## Connect
-[![LinkedIn]] 
-📧 Email: 
-
----
 
 
 
-
-##  Skills Progress
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-80%25-brightgreen?style=for-the-badge&logo=python&logoColor=white" alt="Python Skill" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/JavaScript-70%25-yellow?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Skill" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/MERN_Stack-65%25-blueviolet?style=for-the-badge" alt="MERN Stack Skill" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Embedded-60%25-orange?style=for-the-badge" alt="Embedded Skill" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Blockchain_(Solidity/Web3)-55%25-364FC7?style=for-the-badge&logo=solidity&logoColor=white" alt="Blockchain Skill" />
-</p>
-
-
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TahsinTanni&color=blueviolet&style=flat" alt="Profile Views" width="200"/>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&height=60&size=28&lines=Keep+Pushing.;Keep+Growing.;Keep+Building." alt="Typing SVG" />
-</p>
 
 
 
