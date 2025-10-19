@@ -1,18 +1,12 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&pause=1000&color=816EC7&center=true&vCenter=true&width=900&height=80&size=35&lines=Hello%2C+This+is+Naurose;CSE+Major,+BRAC+University;AI%2C+ML%2C+Cybersecurity" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&pause=1000&color=816EC7&center=true&vCenter=true&width=900&height=80&size=35&lines=Hello%2C+This+is+Naurose;CSE+Major,+BRAC+University;AI+ML+Cybersecurity" alt="Typing SVG" />
 </h1>
-
-
-
 
 ---
 
 ### Hello, This is **Naurose Farhan**
-
 **Computer Science and Engineering Major at BRAC University**
-
-Research interests: **artificial intelligence**, **machine learning**, **web applications**, **data science**, and **Cybersecurity**. 
-
+Research interests: **Artificial Intelligence**, **Machine learning**, **Web Applications**, **Data Science**, and **Cybersecurity**. 
 Currently, working on a research focused on AI, ML & Cybersecurity domains.
 
 ---
@@ -36,7 +30,7 @@ Currently, working on a research focused on AI, ML & Cybersecurity domains.
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-FFFFFF?style=flat-square&logo=matplotlib)
 
 
-### MERN Stack
+### Stack
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
@@ -44,10 +38,10 @@ Currently, working on a research focused on AI, ML & Cybersecurity domains.
 ---
 ##  Collaborate On:
 
--  **AI/ML Projects**  
--  **Data Science Projects**  
--  **MERN Stack Projects**   
-
+-  **AI/ML**  
+-  **Data Science**  
+-  **Web App**   
+-  **Game Dev**
 ---
 
 
