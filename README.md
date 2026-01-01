@@ -4,14 +4,14 @@
 
 ---
 
-### Hello, This is **Naurose Farhan**
+### **Naurose Farhan**
 
 
  
 
 Currently pursuing my undergraduate degree in **Computer Science and Engineering Major at BRAC University**.
 
-My Core Research interests: **Artificial Intelligence**, **Machine learning**, **Data Science**, **System Analysis**, **DevOps** and **Cybersecurity**.
+My Core Research interests: **Artificial Intelligence**, **Machine learning**, **Data Science**, and **Cybersecurity**.
 
 I also enjoy spending time on Web Applications, UI/UX, and Game Development, with beginner-level experience in Unity and Unreal Engine.
 Recently, I have been engaged in research focused on AI, ML, and Cybersecurity.
