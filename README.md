@@ -19,7 +19,8 @@ Apart from that, I absolutely love gaming. My favorite genres are FPS, AAA, and 
 
 Lastly, I'm a high-end PC building enthusiast. 
 My Latest Setup: 
-Aorus Master | i9 13900K | RTX 4080 
+Aorus Master | i9 13900K | RTX 4080
+
 ---
 
 ##  Skills & Tools
