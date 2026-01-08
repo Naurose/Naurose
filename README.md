@@ -34,7 +34,7 @@ Aorus Master | i9 13900K | RTX 4080
 ### AI / Machine Learning
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Neural Networks](https://img.shields.io/badge/Neural%20Networks-5F5F5F?style=flat-square)
+![Neural Networks](https://img.shields.io/badge/Neural%20Networks-800080?style=flat-square)
 
 ### Data Science
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas)
