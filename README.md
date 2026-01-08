@@ -28,13 +28,16 @@ Aorus Master | i9 13900K | RTX 4080
 ### Programming
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-E76F00?style=flat-square&logo=java&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=C&logoColor=white)
 
 ### AI / Machine Learning
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Neural Networks](https://img.shields.io/badge/Neural%20Networks-800080?style=flat-square)
+![Neural Networks](https://img.shields.io/badge/Neural%20Networks-800080?style=flat-square&logo=atom&logoColor=white)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-008CBA?style=flat-square&logo=search&logoColor=white)
+![Reinforcement Learning](https://img.shields.io/badge/Reinforcement%20Learning-00A9E0?style=flat-square&logo=gear&logoColor=white)
 
 ### Data Science
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas)
