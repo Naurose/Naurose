@@ -43,7 +43,7 @@ Aorus Master Z790 | i9 13900K | RTX 4080
 ### Data Science
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-FFFFFF?style=flat-square&logo=numpy)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-FFFFFF?style=flat-square&logo=numpy&logoColor=black)
 
 
 ### Stack
