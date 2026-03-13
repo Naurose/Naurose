@@ -37,13 +37,13 @@ Aorus Master Z790 | i9 13900K | RTX 4080
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Neural Networks](https://img.shields.io/badge/Neural%20Networks-800080?style=flat-square&logo=neutralinojs&logoColor=white)
-![Computer Vision](https://img.shields.io/badge/Computer%20Vision-008CBA?style=flat-square&logo=search&logoColor=white)
-![Reinforcement Learning](https://img.shields.io/badge/Reinforcement%20Learning-00A9E0?style=flat-square&logo=gear&logoColor=white)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-008CBA?style=flat-square&logo=keras&logoColor=white)
+![Reinforcement Learning](https://img.shields.io/badge/Reinforcement%20Learning-00A9E0?style=flat-square&logo=probot&logoColor=white)
 
 ### Data Science
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-FFFFFF?style=flat-square&logo=matplotlib)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-FFFFFF?style=flat-square&logo=numpy)
 
 
 ### Stack
