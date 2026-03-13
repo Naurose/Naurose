@@ -54,7 +54,7 @@ Aorus Master Z790 | i9 13900K | RTX 4080
 ---
 ##  Collaborate
 
--  **Artifical Intelligence/Machine Learning Research**   
+-  **Artificial Intelligence/Machine Learning Research**   
 -  **Unity Engine Projects**
 -  **AR/VR & 3D Mixed Reality Development**   
 -  **Game Development**
