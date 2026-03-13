@@ -28,7 +28,7 @@ Aorus Master | i9 13900K | RTX 4080
 ### Programming
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-E76F00?style=flat-square&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-E76F00?style=flat-square&logo=coffeescript&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![C](https://img.shields.io/badge/C-0044AA?style=flat-square&logo=ubuntu&logoColor=white)
 
