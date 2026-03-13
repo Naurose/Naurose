@@ -1,6 +1,6 @@
-<h1 align="center">
+<!-- <h1 align="center"> -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&pause=1000&color=816EC7&center=true&vCenter=true&width=400&height=37&size=22&lines=Hello%2C+This+is+Naurose;CSE+Major,+BRAC+University;AI+ML+Cybersecurity" alt="Typing SVG" />
-</h1>
+<!-- </h1> -->
 
 ---
 
