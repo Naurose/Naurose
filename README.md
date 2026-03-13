@@ -15,8 +15,8 @@ My Core Research interests: **AI/ML**, **Robotics**, **AR/VR**, and **Cybersecur
 
 I also enjoy spending time on Web Applications, UI/UX, and Game Dev, with essential-level experience in Unity and Unreal Engine.
 Recently, I have been engaged in research focused on **Applied AI in Cryptography**.
-Apart from that, I absolutely love gaming. My favorite genres are FPS, AAA, and RPG titles.
 
+Apart from that, I absolutely love gaming. My favorite genres are FPS, AAA, and RPG titles.
 Lastly, I'm a high-end PC building enthusiast. 
 My Latest Setup: 
 Aorus Master Z790 | i9 13900K | RTX 4080
