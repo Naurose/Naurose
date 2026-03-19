@@ -4,7 +4,7 @@
 
 ---
 
-### [Naurose Farhan](naurose.github.io)
+### ![Naurose Farhan](naurose.github.io)
 
 
  
