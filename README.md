@@ -52,8 +52,8 @@ Aorus Master Z790 | i9 13900K | RTX 4080
 
 
 ### Game Development
-![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=react&logoColor=white)
-![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-000000?style=flat-square&logo=node.js&logoColor=white)
+![Unity](https://img.shields.io/badge/unity?style=flat-square&logo=react&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/unrealengine?style=flat-square&logo=node.js&logoColor=white)
 
 
 ---
